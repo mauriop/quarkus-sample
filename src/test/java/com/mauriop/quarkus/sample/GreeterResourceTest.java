@@ -1,4 +1,4 @@
-package org.acme.spring.di;
+package com.mauriop.quarkus.sample;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

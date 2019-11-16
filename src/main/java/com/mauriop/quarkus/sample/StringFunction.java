@@ -1,4 +1,4 @@
-package org.acme.spring.di;
+package com.mauriop.quarkus.sample;
 
 import java.util.function.Function;
 
